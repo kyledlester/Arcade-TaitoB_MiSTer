@@ -92,7 +92,7 @@ hardware but not put through the golden-frame gate.
 
 ## Installation
 
-1. Copy `releases/Arcade-TaitoB_<date>.rbf` to `_Arcade/cores/` on the MiSTer SD card.
+1. Copy `releases/TaitoB_<date>.rbf` to `_Arcade/cores/` on the MiSTer SD card.
 2. Copy the `.mra` files from `releases/` to `_Arcade/`.
 3. Put the ROMs in `games/mame/`: one zip per game, named after the `<setname>` in the MRA (for
    example `pbobble.zip`). The MRAs describe the MAME 0.277 ROM sets.
